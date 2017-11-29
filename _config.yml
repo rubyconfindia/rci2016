@@ -12,3 +12,4 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
+github_project_name: 'http://rubyconfindia.org/2016'
